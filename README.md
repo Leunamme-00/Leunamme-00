@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-<!--
-**Leunamme-00/Leunamme-00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 ## I am Student !
 
 - 🔭 I’m currently working on a Dsicord utilty bot
