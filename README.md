@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Selenium
 - 🤔 I’m looking for help with Everything 🤣
 - 💬 Ask me about Discord.py
-- 📫 How to reach me: On discord [![!LEUNAMME#6669](https://discord.com/channels/@me)
+- 📫 How to reach me: On discord [!LEUNAMME#6669](https://discord.com/channels/@me)
 - 😄 Pronouns: He
 - ⚡ Fun fact: I dont want to persue programming as a carreer 
 
